@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Adaptadores</string>
+    <string-array name="nombres">
+        <item>Parmesano</item>
+        <item>Ricotta</item>
+        <item>Fontina</item>
+        <item>Mozzarella</item>
+        <item>Brie</item>
+        <item>Cheddar</item>
+    </string-array>
+
+    <string-array name="descripcion">
+        <item>Queso duro granular</item>
+        <item>Queso Italiano de Suero de Leche</item>
+        <item>Queso Italiano de Leche de Vaca</item>
+        <item>Queso del Sur de Italia de Leche de Buffalo</item>
+        <item>Queso Frances de Leche de Vaca</item>
+        <item>Queso Firme de Leche de Vaca</item>
+    </string-array>
+</resources>
